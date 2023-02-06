@@ -4,7 +4,7 @@
   "description": "A short description of what your package does",
   "license": "MIT",
   "require": {
-    "php": ">=8.2",
+    "php": ">=7.4",
     "another-vendor/package": "0.*"
   }
 }
