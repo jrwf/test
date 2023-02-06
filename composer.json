@@ -1,0 +1,10 @@
+{
+  "name": "jrwf/test",
+  "type": "library",
+  "description": "A short description of what your package does",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.2",
+    "another-vendor/package": "0.*"
+  }
+}
